@@ -8,12 +8,13 @@ Hi I'm Parry this is my **stats 220** repository page
 
 1. Very nice lecturer 
 2. Fun in-class activities
-3. Cool labs that you get to learn a lot of stuff
+3. Cool labs where you get to learn a lot of stuff
 
 
 ## How To Be Successful In Stats220
 - Go to every Lecture 
 - Finish every lab task and quiz
-- Go to the drop in session if you need help
+- Go to the drop-in session if you need help
 
+This my university website(https://www.auckland.ac.nz/en.html)
   
