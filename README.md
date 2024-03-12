@@ -1,6 +1,7 @@
 # stats220
 
 Hi I'm Parry this is my **stats 220** repository page
+
 *I will be using this page for my stats 220 project 1.*
 
 ## My Favourite Sports
